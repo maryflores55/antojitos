@@ -9,8 +9,6 @@
 <meta name="keywords" content="">
 <meta name="description" content="">
 <meta name="author" content=""> 
-<!-- bootstrap css -->
-<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 <!-- style css -->
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <!-- Responsive-->
@@ -19,9 +17,6 @@
 <link rel="icon" href="images/0.png" type="image/gif" />
 <!-- Scrollbar Custom CSS -->
 <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
-<!-- Tweaks for older IEs-->
-<link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
-<!-- owl stylesheets --> 
 
 </head>
 <body>
